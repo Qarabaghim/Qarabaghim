@@ -1,6 +1,5 @@
 # Hi, I'm Mohamad Qarabaghi
 
----
 ## About Me
 
 **Junior AI developer focused on machine learning and data analysis using Python.**
@@ -54,7 +53,6 @@
 - 🗣️ NLP (Natural Language Processing)
 - 🔍 Model evaluation & hyperparameter tuning
 
----
 
 ### 📁 Projects
 
@@ -62,7 +60,7 @@
 |--------|-------------|
 | 🧠 **mini python project** | Small mini-projects with Python and its libraries |
 
----
+
 
 ### 📱Social Media:
 
@@ -70,6 +68,5 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](Qarabaghim@gamil.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qarabaghi)
 
----
 
 > Always learning. Always building. 🚀  
