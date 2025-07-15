@@ -1,12 +1,20 @@
 # Hi, I'm Mohamad Qarabaghi
+
+---
+
 ## About Me
+
 **Junior AI developer focused on machine learning and data analysis using Python.**
+
 - **Python Libraries for AI**
 - **Data Analysis & EDA**
 - **Machine Learning**
 - **Deep Learning**
+
 ---
+
 ## 🛠️ Skills & Tools
+
 ### Data Handling & Analysis
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
