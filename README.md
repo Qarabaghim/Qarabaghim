@@ -1,6 +1,4 @@
-# **Hi, I'm Mohamad Qarabaghi**
-
----
+# Hi, I'm Mohamad Qarabaghi
 
 ## About Me
 
