@@ -1,6 +1,8 @@
-# Hi, I'm Mohamad Qarabaghi
+## Hi, I'm Mohamad Qarabaghi
 
-## About Me
+---
+
+### About Me
 
 **Junior AI developer focused on machine learning and data analysis using Python.**
 
@@ -11,32 +13,32 @@
 
 ---
 
-## 🛠️ Skills & Tools
+### 🛠️ Skills & Tools
 
-### Data Handling & Analysis
+#### Data Handling & Analysis
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
 
 
-### Data Visualization
+#### Data Visualization
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3C5280?logo=python&logoColor=white)
 
-### Data Preprocessing
+#### Data Preprocessing
 ![RegEx](https://img.shields.io/badge/-RegEx-663399?logo=regex&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 
-### Machine Learning
+#### Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
-### Deep Learning
+#### Deep Learning
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
-### other
+#### other
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
