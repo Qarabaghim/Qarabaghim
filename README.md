@@ -2,7 +2,7 @@
 
 ---
 
-### About Me:
+### 👤 About Me:
 
 **Junior AI developer focused on machine learning and data analysis using Python.**
 - **Python Libraries for AI**
