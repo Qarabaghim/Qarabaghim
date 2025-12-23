@@ -18,8 +18,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
-
 
 #### Data Visualization
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)
@@ -34,7 +32,6 @@
 
 #### Deep Learning
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
 #### other
@@ -57,19 +54,21 @@
 
 ---
 
-
 ### 📁 Projects
 
-| Project | Description |
-|--------|-------------|
-| 🧠 **mini python project** | Small mini-projects with Python and its libraries |
+| Project                     | Description |
+|-----------------------------|-------------|
+| 🧠 **mini python project**  | Collection of small Python mini-projects for practicing core programming concepts and libraries. |
+| 🚢 **Titanic**              | A supervised machine learning project focused on binary classification using the Titanic dataset. |
+| 🖼️ **Image Classification** | Image and real-time webcam classification using pre-trained CNN models such as VGG16 and MobileNet |
+
 
 ---
 
 ### 📱Social Media:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Qarabaghi)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](Qarabaghim@gamil.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:Qarabaghim@gamil.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qarabaghi)
 
 ---
